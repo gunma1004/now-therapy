@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://now-therapy.netlify.app/sitemap.xml
